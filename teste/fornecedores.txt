@@ -1,0 +1,6 @@
+Nome Fantasia = Sodexo
+CNPJ = 123456789
+Razão Social = Legal
+Codigo = 1
+E-mail = eriveltondesousa26@gmail.com
+Telefone = 11969753018

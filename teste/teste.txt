@@ -1,3 +1,0 @@
-Nome = Erivelton
-Sobrenome = Sousa
-CPF = 12345678

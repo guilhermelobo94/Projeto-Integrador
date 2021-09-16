@@ -38,6 +38,6 @@ public int getAnoDeIngressao() {
 
 @Override
 public String toString() {
-	return super.toString() + "\nCódigo = " + this.codigo + "\nTurma = " + this.turma + "\nAno de Ingressão = " + this.anoDeIngressao;
+	return "\n- - - - - - - - - - - - - - - -  -\n" + super.toString() + "\nCódigo = " + this.codigo + "\nTurma = " + this.turma + "\nAno de Ingressão = " + this.anoDeIngressao;
 }
 }

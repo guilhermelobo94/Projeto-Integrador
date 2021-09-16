@@ -1,0 +1,7 @@
+Nome = Erivelton
+Sobrenome = Sousa
+CPF = 12345678
+Código = 1
+Cadeira = Principal
+Titular = Sim
+Ano de Admissão = 2010
